@@ -1,3 +1,5 @@
+![image](https://github.com/luanaxcardoso/Target_Sistemas/assets/112970416/17aaae14-b9f3-4ad8-a966-3f41d6080294)
+
 ## Teste para Desenvolvedor da Target Sistemas
 
 ### 1) Observe o trecho de código abaixo:
