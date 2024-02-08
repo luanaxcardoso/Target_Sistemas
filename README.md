@@ -1,4 +1,4 @@
-## Teste para Desenvolvedora da Target Sistemas
+## Teste para Desenvolvedor da Target Sistemas
 
 ### 1) Observe o trecho de código abaixo:
  int INDICE = 13, SOMA = 0, K = 0;
